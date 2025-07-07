@@ -4,8 +4,9 @@ This is the starter template for the Next.js App Router Course. It contains the 
 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
 
-1. chapter
-   cd nextjs-dashboard
-   pnpm i
-   pnpm dev
-   Open http://localhost:3000 on your browser.
+# 1. chapter
+
+- cd nextjs-dashboard
+- pnpm i
+- pnpm dev
+- Open http://localhost:3000 on your browser.
